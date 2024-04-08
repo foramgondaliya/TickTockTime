@@ -38,3 +38,9 @@ Easily view and manage existing alarms from the Alarm Page.
 ![Screenshot_20240408_095813](https://github.com/foramgondaliya/TickTockTime/assets/149999919/406a4b49-8ad9-4db1-b28f-8313a300c254)
 
 
+
+
+https://github.com/foramgondaliya/TickTockTime/assets/149999919/4d04a6c8-e51c-4be2-8954-44c0f67dd479
+
+
+
